@@ -1,0 +1,7 @@
+C_KINESIS_ACCESS_KEY=<your access key>
+C_KINESIS_SECRET_KEY=<your secret key>
+C_KINESIS_REGION=<kinesis region>
+C_KINESIS_STREAM_NAME=<stream name>
+C_KINESIS_API_VERSION=<api version>
+C_KINESIS_CONNECTION_TIMEOUT=<connection timeout, default == 300>
+C_KINESIS_TIMEOUT=<timeout, default == 0(infinity)>
